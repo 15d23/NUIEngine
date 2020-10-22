@@ -26,8 +26,21 @@ https://www.youtube.com/watch?v=FyqRYts4o5E
 一些用户反馈Demo示例程序很少，确实现在只有一个简单demo，其实NUIEngine的Demo有数十个之多，甚至为Python开发的插件库都有。主要我没精力整理上传。有需求的人可以留言或者发邮件给我
 今天上线看到Star有47个了，感谢大家捧场，如果超过了100个Star，我承诺把NPlan这个NUIEngine最正式的App开源，这样大家就不会抱怨例子不够多，不知道如何使用NUIEngine的各种控件及高级功能了
 
+2018.08.30 Chenzhi 留言
+NPlan工程已经开源，大家可以通过这个项目了解NUI引擎的各种高级用法。 同时这是个很独特的项目管理软件，我没怎么推广，使用量有限，希望开源后有人能够持续发展，让这个软件更有生命力。
+
 Some user feedback Demo sample programs are very few, and there is only one simple demo now, in fact, we had more than 10 of the Demo of NUIEngine, even for the plug-in library for Python. I didn't have the energy to sort and upload. Any user in need can leave a message or send me an email ask it.
 Today, I saw 47 Star on line, thanks to everyone, and if more than 100 Star, I promised to open source for the NPlan, the most formal App of the NUIEngine, so that you won't complain enough, and don't know how to use NUIEngine's controls and advanced functions.
+
+2018.08.07 Chenzhi 留言
+今天上传了两个教程文档和几个windows下的demo程序，教程文档可以参考，但不一定和最新的sdk保持一致，可能有出入
+demo程序还没有上传代码，主要是一些demo是用老的引擎版本写的，开源的最新版本不一定能够编译通过，没有时间整理，以后有时间再说。
+
+2019.03.04 Chenzhi 留言
+今天上传了安卓工程，可以直接编译一个HelloNUI的安卓demo apk，需要更新一些文件，各个目录下都有.  
+Upload a android project for HelloNUI demo. need update some files.
+
+上传配套的skia源码一套【third_party/skia_vs2008-source.zip】，这个附带VS2008的工程。 给那些需要之其它环境下编译（比如VS2015）的人使用。 我不确定能否编过，我没VS2015. 
 
 ## Getting Started
 
